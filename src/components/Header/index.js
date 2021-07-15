@@ -7,7 +7,24 @@ export const Header = {
     return (
       <header>
         <nav>
-          <div class="logo">Logo</div>
+          <div class="menu">
+            <nav>
+              <ul>
+                <li>
+                  <a>Home</a>
+                </li>
+                <li>
+                  <a>News</a>
+                </li>
+                <li>
+                  <a>Contact</a>
+                </li>
+                <li>
+                  <a>About</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
         </nav>
       </header>
     );

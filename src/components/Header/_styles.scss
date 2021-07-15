@@ -1,4 +1,22 @@
-.logo {
+.menu {
   background: #456489;
   padding: 1rem;
+
+  ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  li {
+    list-style: none;
+    margin-left: 40px;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: white;
+
+    &:hover {
+      color: red;
+    }
+  }
 }

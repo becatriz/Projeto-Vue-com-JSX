@@ -1,0 +1,60 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 15 Jul 2021 14:08:02 GMT
+ */
+
+export const ColorPrimary800 = "#b22c00";
+export const ColorPrimary900 = "#802000";
+export const FontFamilyPrimary = "Open Sans, sans-serif";
+export const FontFamilySecondary = "Lato, sans-serif";
+export const FontHeightXs = "1";
+export const FontHeightSm = "1.2";
+export const FontHeightMd = "1.3";
+export const FontHeightLg = "1.4";
+export const FontHeightXl = "1.6";
+export const FontSizeXxxs = "0.75rem";
+export const FontSizeXxs = "0.875rem";
+export const FontSizeXs = "1rem";
+export const FontSizeSm = "1.125rem";
+export const FontSizeMd = "1.5rem";
+export const FontSizeLg = "2rem";
+export const FontSizeXl = "2.5rem";
+export const FontSizeXxl = "3.5rem";
+export const FontSizeXxxl = "4.5rem";
+export const FontWeightThin = "100";
+export const FontWeightLight = "300";
+export const FontWeightRegular = "400";
+export const FontWeightSemibold = "600";
+export const FontWeightBold = "700";
+export const FontWeightExtrabold = "800";
+export const FontWeightBlack = "900";
+export const Size0 = "0rem";
+export const Size1 = "0.0625rem";
+export const Size2 = "0.125rem";
+export const Size4 = "0.25rem";
+export const Size8 = "0.5rem";
+export const Size10 = "0.625rem";
+export const Size12 = "0.75rem";
+export const Size14 = "0.875rem";
+export const Size16 = "1rem";
+export const Size18 = "1.125rem";
+export const Size20 = "1.25rem";
+export const Size24 = "1.5rem";
+export const Size28 = "1.75rem";
+export const Size32 = "2rem";
+export const Size40 = "2.5rem";
+export const Size48 = "3rem";
+export const Size56 = "3.5rem";
+export const Size64 = "4rem";
+export const Size72 = "4.5rem";
+export const Size96 = "6rem";
+export const Size140 = "8.75rem";
+export const Size160 = "10rem";
+export const Size240 = "15rem";
+export const Size320 = "20rem";
+export const Size480 = "30rem";
+export const Size640 = "40rem";
+export const Size768 = "48rem";
+export const Size800 = "50rem";
+export const Size992 = "62rem";
+export const Size1180 = "73.75rem";

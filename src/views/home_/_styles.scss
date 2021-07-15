@@ -1,0 +1,9 @@
+.cards {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr;
+
+  margin-bottom: 100px;
+  &__img {
+    width: 100%;
+  }
+}
