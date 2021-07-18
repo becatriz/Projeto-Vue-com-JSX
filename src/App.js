@@ -4,10 +4,10 @@ export default {
   name: "App",
   render() {
     return (
-      <div>
+      <main>
         <Header />
         <router-view></router-view>
-      </div>
+      </main>
     );
   },
 };
