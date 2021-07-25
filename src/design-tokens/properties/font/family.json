@@ -1,12 +1,18 @@
 {
-    "font":{
-        "family":{
-            "primary":{
-                "value": "Open Sans, sans-serif"
-            },
-            "secondary":{
-                "value": "Lato, sans-serif"
-            }
+    "font": {
+      "family": {
+        "base": {
+          "value": "Montserrat, sans-serif"
+        },
+        "primary": {
+          "value": "Open Sans, sans-serif"
+        },
+        "secondary": {
+          "value": "Lato, sans-serif"
+        },
+        "tertiary": {
+          "value": "Arvo, sans-serif"
         }
+      }
     }
-}
+  }
