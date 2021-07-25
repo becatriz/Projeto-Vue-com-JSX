@@ -1,16 +1,22 @@
-import Home from "../views/home_";
-import Contact from "../views/contact_";
+import Home from "../views/store";
+import Contact from "../views/contact";
+import About from "../views/about";
 
 const routes = [
   {
     path: "/",
-    name: "home",
+    name: "store",
     component: Home,
   },
   {
     path: "/contato",
-    name: "contato",
+    name: "contact",
     component: Contact,
+  },
+  {
+    path: "/sobre",
+    name: "about",
+    component: About,
   },
 ];
 
