@@ -14,7 +14,6 @@ export const VCards = {
     return (
       <div>
         <div class="card">
-          <Header />
           <h1 class="card__title">{props.title}</h1>
           {slots().card}
         </div>
